@@ -1,0 +1,4 @@
+{
+  "cSpell.words": ["bcrypt"],
+  "python.analysis.extraPaths": ["./venv/Lib/site-packages"]
+}
