@@ -3,5 +3,5 @@
 ## Made with  
 <img align="left" src="https://img.icons8.com/color/48/000000/flutter.png"/><img align="left" src="https://img.icons8.com/color/48/000000/python--v1.png"/>
    
-     Frontend by:Dayeen md, Suhas gowda, Harsh Thakur.
+     Frontend by:Mohammed Dayeen, Suhas gowda H S, Harsh Thakur.
      Backend by: Samrath sudesh acharya.
