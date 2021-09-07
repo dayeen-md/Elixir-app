@@ -2,4 +2,6 @@
 
 ## Made with  
 <img align="left" src="https://img.icons8.com/color/48/000000/flutter.png"/><img align="left" src="https://img.icons8.com/color/48/000000/python--v1.png"/>
-
+Credits,
+ Frontend: Suhas gowda, Harsh Thakur.
+ Backend: Samrath sudesh acharya.
