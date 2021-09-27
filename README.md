@@ -1,5 +1,4 @@
-     Frontend by:Mohammed Dayeen, Suhas gowda H S, Harsh Thakur.
-     Backend by: Samrath sudesh acharya.
+
 
 <img align="right" src="https://user-images.githubusercontent.com/76547134/132239741-95fbca10-b0f6-4de4-87b5-9c8cccabe63f.png"/>
 
